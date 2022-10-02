@@ -1,0 +1,17 @@
+.nav2 {
+  display: flex;
+  list-style: none;
+}
+
+.nav1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: gainsboro;
+  height: 80px;
+  padding: 0 100px;
+}
+
+.nav2 li {
+  padding: 10px;
+}
